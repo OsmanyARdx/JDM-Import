@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/redix/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/redix/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/redix/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar;C:/Users/redix/.m2/repository/org/openjfx/javafx-media/13/javafx-media-13.jar;C:/Users/redix/.m2/repository/net/sf/ucanaccess/ucanaccess/5.0.1/ucanaccess-5.0.1.jar;C:/Users/redix/.m2/repository/org/hsqldb/hsqldb/2.5.0/hsqldb-2.5.0.jar;C:/Users/redix/.m2/repository/com/healthmarketscience/jackcess/jackcess/3.0.1/jackcess-3.0.1.jar;C:/Users/redix/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar;C:/Users/redix/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/redix/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar'
+--module-path
+'C:/Users/redix/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar;C:/Users/redix/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar;C:/Users/redix/.m2/repository/org/openjfx/javafx-media/13/javafx-media-13-win.jar;C:/Users/redix/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-win.jar;E:/JDMImport/target/classes;C:/Users/redix/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar'
+--patch-module
+com.osmanyargueta.jdmimport='E:/JDMImport/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'E:/JDMImport/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/JDMImport/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JDMImport 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'E:/JDMImport/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'JDMImport 1.0-SNAPSHOT API'
+com.osmanyargueta.jdmimport
+'E:/JDMImport/src/main/java/module-info.java'
+E:\JDMImport\target\site\apidocs\element-list = 1682621340000
+E:\JDMImport\target\site\apidocs\overview-tree.html = 1682621340000
+E:\JDMImport\target\site\apidocs\allclasses-index.html = 1682621340000
+E:\JDMImport\target\site\apidocs\allpackages-index.html = 1682621340000
+E:\JDMImport\target\site\apidocs\module-search-index.js = 1682621340000
+E:\JDMImport\target\site\apidocs\package-search-index.js = 1682621340000
+E:\JDMImport\target\site\apidocs\type-search-index.js = 1682621340000
+E:\JDMImport\target\site\apidocs\member-search-index.js = 1682621340000
+E:\JDMImport\target\site\apidocs\tag-search-index.js = 1682621340000
+E:\JDMImport\target\site\apidocs\index-all.html = 1682621340000
+E:\JDMImport\target\site\apidocs\index.html = 1682621340000
+E:\JDMImport\target\site\apidocs\help-doc.html = 1682621340000
+E:\JDMImport\target\site\apidocs\stylesheet.css = 1682621340000
+E:\JDMImport\target\site\apidocs\script.js = 1682621340000
+E:\JDMImport\target\site\apidocs\search.js = 1682621340000
+E:\JDMImport\target\site\apidocs\jquery-ui.overrides.css = 1682621342000
